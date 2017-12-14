@@ -8,7 +8,7 @@
         `pod trunk me` 查看自己是否已经注册过
         如未注册 执行`pod trunk register 邮箱 用户名 --verbose`
         注册完成之后会给你的邮箱发个邮件，进入邮箱邮件里面有个链接，需要点击确认一下。注册完成后使用`pod trunk me`检验注册是否成功
-    ! [Image](podtrunkme.png)
+     ![podtrunkme.png](podtrunkme.png)
 * #### 创建 .podspec
     到项目的根目录，执行命令`pod spec create 项目名称`
     【注意】: 项目名称不能和 github 上已存在的项目名称重复
