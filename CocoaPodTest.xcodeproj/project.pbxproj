@@ -15,12 +15,12 @@
 		092C6CFD1FE1282900D74827 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 092C6CFC1FE1282900D74827 /* main.m */; };
 		092C6D071FE1282900D74827 /* CocoaPodTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 092C6D061FE1282900D74827 /* CocoaPodTestTests.m */; };
 		092C6D121FE1282900D74827 /* CocoaPodTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 092C6D111FE1282900D74827 /* CocoaPodTestUITests.m */; };
-		092C6D2C1FE131B400D74827 /* NSObject+JSONExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 092C6D241FE131B400D74827 /* NSObject+JSONExtension.m */; };
-		092C6D2D1FE131B400D74827 /* NSObject+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 092C6D261FE131B400D74827 /* NSObject+Extension.m */; };
-		092C6D2E1FE131B400D74827 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 092C6D271FE131B400D74827 /* Person.m */; };
-		092C6D2F1FE131B400D74827 /* UIImage+Tool.m in Sources */ = {isa = PBXBuildFile; fileRef = 092C6D281FE131B400D74827 /* UIImage+Tool.m */; };
-		092C6D301FE131B400D74827 /* NSObject+property.m in Sources */ = {isa = PBXBuildFile; fileRef = 092C6D291FE131B400D74827 /* NSObject+property.m */; };
-		092C6D311FE131B400D74827 /* TestObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 092C6D2A1FE131B400D74827 /* TestObject.m */; };
+		092C8F901FE2099A00466B66 /* NSObject+JSONExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 092C8F881FE2099A00466B66 /* NSObject+JSONExtension.m */; };
+		092C8F911FE2099A00466B66 /* NSObject+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 092C8F8A1FE2099A00466B66 /* NSObject+Extension.m */; };
+		092C8F921FE2099A00466B66 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 092C8F8B1FE2099A00466B66 /* Person.m */; };
+		092C8F931FE2099A00466B66 /* UIImage+Tool.m in Sources */ = {isa = PBXBuildFile; fileRef = 092C8F8C1FE2099A00466B66 /* UIImage+Tool.m */; };
+		092C8F941FE2099A00466B66 /* NSObject+property.m in Sources */ = {isa = PBXBuildFile; fileRef = 092C8F8D1FE2099A00466B66 /* NSObject+property.m */; };
+		092C8F951FE2099A00466B66 /* TestObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 092C8F8E1FE2099A00466B66 /* TestObject.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,18 +57,18 @@
 		092C6D0D1FE1282900D74827 /* CocoaPodTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CocoaPodTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		092C6D111FE1282900D74827 /* CocoaPodTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CocoaPodTestUITests.m; sourceTree = "<group>"; };
 		092C6D131FE1282900D74827 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		092C6D201FE131B400D74827 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
-		092C6D211FE131B400D74827 /* NSObject+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+Extension.h"; sourceTree = "<group>"; };
-		092C6D221FE131B400D74827 /* NSObject+property.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+property.h"; sourceTree = "<group>"; };
-		092C6D231FE131B400D74827 /* UIImage+Tool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Tool.h"; sourceTree = "<group>"; };
-		092C6D241FE131B400D74827 /* NSObject+JSONExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+JSONExtension.m"; sourceTree = "<group>"; };
-		092C6D251FE131B400D74827 /* TestObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestObject.h; sourceTree = "<group>"; };
-		092C6D261FE131B400D74827 /* NSObject+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+Extension.m"; sourceTree = "<group>"; };
-		092C6D271FE131B400D74827 /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
-		092C6D281FE131B400D74827 /* UIImage+Tool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Tool.m"; sourceTree = "<group>"; };
-		092C6D291FE131B400D74827 /* NSObject+property.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+property.m"; sourceTree = "<group>"; };
-		092C6D2A1FE131B400D74827 /* TestObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestObject.m; sourceTree = "<group>"; };
-		092C6D2B1FE131B400D74827 /* NSObject+JSONExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+JSONExtension.h"; sourceTree = "<group>"; };
+		092C8F841FE2099A00466B66 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		092C8F851FE2099A00466B66 /* NSObject+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+Extension.h"; sourceTree = "<group>"; };
+		092C8F861FE2099A00466B66 /* NSObject+property.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+property.h"; sourceTree = "<group>"; };
+		092C8F871FE2099A00466B66 /* UIImage+Tool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Tool.h"; sourceTree = "<group>"; };
+		092C8F881FE2099A00466B66 /* NSObject+JSONExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+JSONExtension.m"; sourceTree = "<group>"; };
+		092C8F891FE2099A00466B66 /* TestObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestObject.h; sourceTree = "<group>"; };
+		092C8F8A1FE2099A00466B66 /* NSObject+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+Extension.m"; sourceTree = "<group>"; };
+		092C8F8B1FE2099A00466B66 /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
+		092C8F8C1FE2099A00466B66 /* UIImage+Tool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Tool.m"; sourceTree = "<group>"; };
+		092C8F8D1FE2099A00466B66 /* NSObject+property.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+property.m"; sourceTree = "<group>"; };
+		092C8F8E1FE2099A00466B66 /* TestObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestObject.m; sourceTree = "<group>"; };
+		092C8F8F1FE2099A00466B66 /* NSObject+JSONExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+JSONExtension.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,7 +99,7 @@
 		092C6CE11FE1282900D74827 = {
 			isa = PBXGroup;
 			children = (
-				092C6D1F1FE131B400D74827 /* Cocoa */,
+				092C8F831FE2099A00466B66 /* Classes */,
 				092C6CEC1FE1282900D74827 /* CocoaPodTest */,
 				092C6D051FE1282900D74827 /* CocoaPodTestTests */,
 				092C6D101FE1282900D74827 /* CocoaPodTestUITests */,
@@ -151,23 +151,23 @@
 			path = CocoaPodTestUITests;
 			sourceTree = "<group>";
 		};
-		092C6D1F1FE131B400D74827 /* Cocoa */ = {
+		092C8F831FE2099A00466B66 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				092C6D201FE131B400D74827 /* Person.h */,
-				092C6D211FE131B400D74827 /* NSObject+Extension.h */,
-				092C6D221FE131B400D74827 /* NSObject+property.h */,
-				092C6D231FE131B400D74827 /* UIImage+Tool.h */,
-				092C6D241FE131B400D74827 /* NSObject+JSONExtension.m */,
-				092C6D251FE131B400D74827 /* TestObject.h */,
-				092C6D261FE131B400D74827 /* NSObject+Extension.m */,
-				092C6D271FE131B400D74827 /* Person.m */,
-				092C6D281FE131B400D74827 /* UIImage+Tool.m */,
-				092C6D291FE131B400D74827 /* NSObject+property.m */,
-				092C6D2A1FE131B400D74827 /* TestObject.m */,
-				092C6D2B1FE131B400D74827 /* NSObject+JSONExtension.h */,
+				092C8F841FE2099A00466B66 /* Person.h */,
+				092C8F851FE2099A00466B66 /* NSObject+Extension.h */,
+				092C8F861FE2099A00466B66 /* NSObject+property.h */,
+				092C8F871FE2099A00466B66 /* UIImage+Tool.h */,
+				092C8F881FE2099A00466B66 /* NSObject+JSONExtension.m */,
+				092C8F891FE2099A00466B66 /* TestObject.h */,
+				092C8F8A1FE2099A00466B66 /* NSObject+Extension.m */,
+				092C8F8B1FE2099A00466B66 /* Person.m */,
+				092C8F8C1FE2099A00466B66 /* UIImage+Tool.m */,
+				092C8F8D1FE2099A00466B66 /* NSObject+property.m */,
+				092C8F8E1FE2099A00466B66 /* TestObject.m */,
+				092C8F8F1FE2099A00466B66 /* NSObject+JSONExtension.h */,
 			);
-			path = Cocoa;
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -303,14 +303,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				092C6D2E1FE131B400D74827 /* Person.m in Sources */,
-				092C6D311FE131B400D74827 /* TestObject.m in Sources */,
-				092C6D2F1FE131B400D74827 /* UIImage+Tool.m in Sources */,
+				092C8F921FE2099A00466B66 /* Person.m in Sources */,
+				092C8F951FE2099A00466B66 /* TestObject.m in Sources */,
+				092C8F931FE2099A00466B66 /* UIImage+Tool.m in Sources */,
 				092C6CF21FE1282900D74827 /* ViewController.m in Sources */,
-				092C6D2C1FE131B400D74827 /* NSObject+JSONExtension.m in Sources */,
-				092C6D2D1FE131B400D74827 /* NSObject+Extension.m in Sources */,
+				092C8F901FE2099A00466B66 /* NSObject+JSONExtension.m in Sources */,
+				092C8F911FE2099A00466B66 /* NSObject+Extension.m in Sources */,
 				092C6CFD1FE1282900D74827 /* main.m in Sources */,
-				092C6D301FE131B400D74827 /* NSObject+property.m in Sources */,
+				092C8F941FE2099A00466B66 /* NSObject+property.m in Sources */,
 				092C6CEF1FE1282900D74827 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
